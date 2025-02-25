@@ -1,0 +1,5 @@
+module prime_number
+typeinfo appprime_number.qmltypes
+prefer :/prime_number/
+Main 1.0 Main.qml
+

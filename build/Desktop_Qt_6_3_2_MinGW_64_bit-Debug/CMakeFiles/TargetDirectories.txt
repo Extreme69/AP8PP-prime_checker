@@ -1,0 +1,16 @@
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number_qmltyperegistration.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number_other_files.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number_qmllint.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number_tooling.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number_qmlimportscan.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number_autogen_timestamp_deps.dir
+C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appprime_number_autogen.dir
