@@ -72,7 +72,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appprime_number::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appprime_number-Debug-ac07a1ee2a480c1acc46.json",
+					"jsonFile" : "target-appprime_number-Debug-63cd98769a631d51d9c5.json",
 					"name" : "appprime_number",
 					"projectIndex" : 0
 				},
@@ -86,7 +86,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appprime_number_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appprime_number_autogen_timestamp_deps-Debug-bf38d8799f856aa3c24d.json",
+					"jsonFile" : "target-appprime_number_autogen_timestamp_deps-Debug-16494887ff7276962e62.json",
 					"name" : "appprime_number_autogen_timestamp_deps",
 					"projectIndex" : 0
 				},
@@ -131,8 +131,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug",
-		"source" : "C:/Users/m_lehmden/Documents/prime_number"
+		"build" : "D:/AP8PP-prime_checker/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug",
+		"source" : "D:/AP8PP-prime_checker"
 	},
 	"version" : 
 	{

@@ -34,10 +34,10 @@ Window {
             onClicked: {
                 if (pauseButton.text === "Pause") {
                     primeChecker.pauseChecking()
-                    pauseButton.text = "Resume"  // Change button text to "Resume" when paused
+                    pauseButton.text = "Resume"
                 } else {
-                    primeChecker.startChecking(parseInt(numberInput.text))  // Continue from the last paused state
-                    pauseButton.text = "Pause"  // Change back to "Pause" when resumed
+                    primeChecker.resumeChecking()  // Resume without resetting progress
+                    pauseButton.text = "Pause"
                 }
             }
         }
@@ -46,17 +46,15 @@ Window {
             text: "Stop"
             onClicked: {
                 primeChecker.stopChecking()
-                pauseButton.text = "Pause"  // Reset button to "Pause" when stopped
+                pauseButton.text = "Pause"
             }
         }
 
         ProgressBar {
             id: progressBar
             width: parent.width
-            value: progressBar.value
             from: 0
             to: 100
-            visible: true
         }
 
         Text {
@@ -87,7 +85,7 @@ Window {
             }
 
             function onErrorMessage(message) {
-                errorText.text = message;  // Zobraziť chybovú správu
+                errorText.text = message;
             }
         }
     }

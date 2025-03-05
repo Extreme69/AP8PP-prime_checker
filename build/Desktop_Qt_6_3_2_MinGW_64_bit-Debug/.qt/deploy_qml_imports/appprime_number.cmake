@@ -9,7 +9,7 @@ endif()
 
 _qt_internal_deploy_qml_imports_for_target(
     ${__qt_opts}
-    IMPORTS_FILE "C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appprime_number.cmake"
+    IMPORTS_FILE "D:/AP8PP-prime_checker/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appprime_number.cmake"
     PLUGINS_FOUND __qt_internal_plugins_found
     QML_DIR     "${arg_QML_DIR}"
     PLUGINS_DIR "${arg_PLUGINS_DIR}"

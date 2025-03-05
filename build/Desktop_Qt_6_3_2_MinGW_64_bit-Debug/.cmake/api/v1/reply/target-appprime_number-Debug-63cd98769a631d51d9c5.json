@@ -104,13 +104,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 39,
+				"line" : 40,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 34,
+				"line" : 35,
 				"parent" : 0
 			},
 			{
@@ -152,7 +152,7 @@
 			{
 				"command" : 10,
 				"file" : 1,
-				"line" : 15,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
@@ -571,12 +571,6 @@
 				"parent" : 15
 			},
 			{
-				"command" : 22,
-				"file" : 5,
-				"line" : 1814,
-				"parent" : 76
-			},
-			{
 				"command" : 28,
 				"file" : 5,
 				"line" : 1907,
@@ -586,7 +580,7 @@
 				"command" : 22,
 				"file" : 5,
 				"line" : 907,
-				"parent" : 91
+				"parent" : 90
 			},
 			{
 				"command" : 22,
@@ -604,19 +598,19 @@
 				"command" : 26,
 				"file" : 0,
 				"line" : 340,
-				"parent" : 94
+				"parent" : 93
 			},
 			{
 				"command" : 25,
 				"file" : 0,
 				"line" : 2234,
-				"parent" : 95
+				"parent" : 94
 			},
 			{
 				"command" : 22,
 				"file" : 0,
 				"line" : 2017,
-				"parent" : 96
+				"parent" : 95
 			}
 		]
 	},
@@ -700,11 +694,11 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/include"
+					"path" : "D:/AP8PP-prime_checker/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/include"
 				},
 				{
 					"backtrace" : 79,
-					"path" : "C:/Users/m_lehmden/Documents/prime_number"
+					"path" : "D:/AP8PP-prime_checker"
 				},
 				{
 					"backtrace" : 80,
@@ -782,8 +776,8 @@
 			[
 				0,
 				1,
-				4,
-				6,
+				5,
+				7,
 				8,
 				9,
 				10
@@ -871,11 +865,11 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/include"
+					"path" : "D:/AP8PP-prime_checker/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/include"
 				},
 				{
 					"backtrace" : 79,
-					"path" : "C:/Users/m_lehmden/Documents/prime_number"
+					"path" : "D:/AP8PP-prime_checker"
 				},
 				{
 					"backtrace" : 80,
@@ -951,7 +945,7 @@
 			"language" : "CXX",
 			"sourceIndexes" : 
 			[
-				3
+				4
 			]
 		}
 	],
@@ -1107,9 +1101,9 @@
 			[
 				0,
 				1,
-				3,
 				4,
-				6,
+				5,
+				7,
 				8,
 				9,
 				10
@@ -1120,7 +1114,7 @@
 			"sourceIndexes" : 
 			[
 				2,
-				7,
+				3,
 				11,
 				20,
 				21,
@@ -1135,7 +1129,7 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				5
+				6
 			]
 		},
 		{
@@ -1169,6 +1163,11 @@
 			"sourceGroupIndex" : 0
 		},
 		{
+			"backtrace" : 4,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
 			"backtrace" : 82,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/meta_types/qt6appprime_number_debug_metatypes.json.gen",
@@ -1200,26 +1199,21 @@
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 90,
-			"path" : "Main.qml",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 92,
+			"backtrace" : 91,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.rcc/qmlcache/appprime_number_qmlcache_loader.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 93,
+			"backtrace" : 92,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.rcc/qmlcache/appprime_number_Main_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 97,
+			"backtrace" : 96,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.rcc/qrc_appprime_number_raw_qml_0.cpp",

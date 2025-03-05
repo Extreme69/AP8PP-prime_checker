@@ -1,5 +1,5 @@
-C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/EWIEGA46WW/moc_primechecker.cpp: C:/Users/m_lehmden/Documents/prime_number/primechecker.h \
-  C:/Users/m_lehmden/Documents/prime_number/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/moc_predefs.h \
+D:/AP8PP-prime_checker/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/EWIEGA46WW/moc_primechecker.cpp: D:/AP8PP-prime_checker/primechecker.h \
+  D:/AP8PP-prime_checker/build/Desktop_Qt_6_3_2_MinGW_64_bit-Debug/appprime_number_autogen/moc_predefs.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/QObject \
   C:/Qt/6.3.2/mingw_64/include/QtCore/QTimer \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qalgorithms.h \
