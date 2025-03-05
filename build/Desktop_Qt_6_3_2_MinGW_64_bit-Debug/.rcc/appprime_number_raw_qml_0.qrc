@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/prime_number/">
-    <file alias="Main.qml">D:/AP8PP-prime_checker/Main.qml</file>
-  </qresource>
-</RCC>
-
